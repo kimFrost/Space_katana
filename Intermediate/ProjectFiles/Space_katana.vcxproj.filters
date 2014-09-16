@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\Space_katana.uproject" />
+		<Filter Include="Source">
+			<UniqueIdentifier>{118558C5-3E90-4102-BAC7-542D5FC47267}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\Space_katana.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\Space_katanaEditor.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<Filter Include="Config">
+			<UniqueIdentifier>{7762DFC1-728D-45B9-9B91-F8A2FA4E7E55}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Config\DefaultEditor.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultGame.ini">
+			<Filter>Config</Filter>
+		</None >
+		<Filter Include="Source\Space_katana">
+			<UniqueIdentifier>{E6FDAF07-B0A5-46BD-A095-77642DAB3499}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\Space_katana\Space_katana.Build.cs">
+			<Filter>Source\Space_katana</Filter>
+		</None >
+		<ClCompile Include="..\..\Source\Space_katana\Space_katana.cpp">
+			<Filter>Source\Space_katana</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\Space_katana\Space_katana.h">
+			<Filter>Source\Space_katana</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\Space_katana\Space_katanaGameMode.cpp">
+			<Filter>Source\Space_katana</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\Space_katana\Space_katanaGameMode.h">
+			<Filter>Source\Space_katana</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\Space_katana\Space_katanaPlayerController.cpp">
+			<Filter>Source\Space_katana</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\Space_katana\Space_katanaPlayerController.h">
+			<Filter>Source\Space_katana</Filter>
+		</ClInclude >
+		<Filter Include="Source\Space_katana\Resources">
+			<UniqueIdentifier>{EA5B5530-2B7D-42ED-ADB0-1B63D8412ABF}</UniqueIdentifier>
+		</Filter>
+		<Filter Include="Source\Space_katana\Resources\Windows">
+			<UniqueIdentifier>{38EA3D85-70BD-48F6-B896-E02442E737AA}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\Space_katana\Resources\Windows\Space_katana.ico">
+			<Filter>Source\Space_katana\Resources\Windows</Filter>
+		</None >
+		<ResourceCompile Include="..\..\Source\Space_katana\Resources\Windows\Space_katana.rc">
+			<Filter>Source\Space_katana\Resources\Windows</Filter>
+		</ResourceCompile >
+	</ItemGroup>
+</Project>
