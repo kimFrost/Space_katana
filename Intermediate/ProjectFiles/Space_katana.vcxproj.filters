@@ -4,7 +4,7 @@
 	<ItemGroup>
 		<None Include="..\..\Space_katana.uproject" />
 		<Filter Include="Source">
-			<UniqueIdentifier>{2710AAD1-FAFC-4F06-BA6D-E69F7CDF1E33}</UniqueIdentifier>
+			<UniqueIdentifier>{4560B087-836D-4392-9BDA-042D75666CAC}</UniqueIdentifier>
 		</Filter>
 		<None Include="..\..\Source\Space_katana.Target.cs">
 			<Filter>Source</Filter>
@@ -13,7 +13,7 @@
 			<Filter>Source</Filter>
 		</None >
 		<Filter Include="Config">
-			<UniqueIdentifier>{95F3D5C3-A72F-4EC8-BAD7-D70DD151ECC8}</UniqueIdentifier>
+			<UniqueIdentifier>{8B075B21-5566-468A-B914-11522501F5D0}</UniqueIdentifier>
 		</Filter>
 		<None Include="..\..\Config\DefaultEditor.ini">
 			<Filter>Config</Filter>
@@ -24,11 +24,8 @@
 		<None Include="..\..\Config\DefaultGame.ini">
 			<Filter>Config</Filter>
 		</None >
-		<None Include="..\..\Config\DefaultInput.ini">
-			<Filter>Config</Filter>
-		</None >
 		<Filter Include="Source\Space_katana">
-			<UniqueIdentifier>{46205F66-A371-4B05-A5B5-75C1CCC26128}</UniqueIdentifier>
+			<UniqueIdentifier>{BB7B3278-BF27-44C7-B8F4-1C7444E068BA}</UniqueIdentifier>
 		</Filter>
 		<None Include="..\..\Source\Space_katana\Space_katana.Build.cs">
 			<Filter>Source\Space_katana</Filter>
@@ -52,10 +49,10 @@
 			<Filter>Source\Space_katana</Filter>
 		</ClInclude >
 		<Filter Include="Source\Space_katana\Resources">
-			<UniqueIdentifier>{E089E3A4-7803-4A0F-B972-DAA40A6488D9}</UniqueIdentifier>
+			<UniqueIdentifier>{019AC0D3-3726-4240-91A0-BF69B50A7F5F}</UniqueIdentifier>
 		</Filter>
 		<Filter Include="Source\Space_katana\Resources\Windows">
-			<UniqueIdentifier>{168C80C0-29D3-4F8D-8AED-5B109F492607}</UniqueIdentifier>
+			<UniqueIdentifier>{4FC2A2CA-D923-421C-A623-1BEB0048CF23}</UniqueIdentifier>
 		</Filter>
 		<None Include="..\..\Source\Space_katana\Resources\Windows\Space_katana.ico">
 			<Filter>Source\Space_katana\Resources\Windows</Filter>
